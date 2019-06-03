@@ -8,5 +8,8 @@ trim_trailing_whitespace = true
 indent_style = space
 indent_size = 4
 
+[*.{ddx,mul,scm}]
+charset = utf-16le
+
 [*.{bat,cmd}]
 end_of_line = crlf

@@ -1,2 +1,3 @@
-# Exclude jcf files
+# JADE
+*.ddb
 *.jcf

@@ -1,9 +1,9 @@
-* text=auto encoding=utf-8
+* text=auto
 
 # JADE Files
-*.ddx text encoding=utf-8
-*.scm text encoding=utf-8
-*.mul text encoding=utf-8
+*.ddx text encoding=utf-8 working-tree-encoding=UTF-16LE-BOM
+*.scm text encoding=utf-8 working-tree-encoding=UTF-16LE-BOM
+*.mul text encoding=utf-8 working-tree-encoding=UTF-16LE-BOM
 
 # Windows
 *.bat eol=crlf
